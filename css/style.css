@@ -1,0 +1,162 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(220, 3%, 23%);
+}
+@media screen and (min-width: 550px) {
+  .wrapper {
+    /* text-align: center;
+  padding-top: 91px; */
+  }
+  .title_awl {
+    font-size: 2.5rem;
+  }
+  .title_akh {
+    font-size: 2.5rem;
+    font-family: "Caveat", cursive;
+  }
+  .desk {
+    family: [Poppins](https://fonts.google.com/specimen/Poppins);
+  }
+  .row_atas {
+    position: absolute;
+    border-top-color: red;
+    margin-top: 37px;
+    top: 430px;
+    left: 10px;
+    box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+    border: solid 0.3em white;
+    border-top-color: red;
+    width: 300px;
+    height: 190px;
+  }
+  .row_kiri {
+    position: absolute;
+    top: 250px;
+    left: 10px;
+    width: 300px;
+    height: 190px;
+    border: solid 0.3em white;
+    border-top-color: turquoise;
+    box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+  }
+  .row_kanan {
+    position: absolute;
+    top: 910px;
+    left: 10px;
+    width: 300px;
+    height: 190px;
+    border: solid 0.3em white;
+    border-top-color: blue;
+    box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+  }
+  .row_bawah {
+    position: absolute;
+    top: 690px;
+    left: 10px;
+    width: 300px;
+    height: 190px;
+    border: solid 0.3em white;
+    border-top-color: orange;
+    box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+  }
+  .builder {
+    position: relative;
+    left: 110px;
+    margin-bottom: 300px;
+  }
+  .desktop {
+    position: absolute;
+    left: 230px;
+    margin-bottom: 300px;
+  }
+  .search {
+    position: absolute;
+    left: 230px;
+    margin-bottom: 300px;
+  }
+  .lampu {
+    position: absolute;
+    left: 230px;
+    margin-bottom: 300px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .wrapper {
+  text-align: center;
+  padding-top: 91px;
+}
+.title_awl {
+  font-size: 2.5rem;
+}
+.title_akh {
+  font-size: 2.5rem;
+  font-family: "Caveat", cursive;
+}
+.desk {
+  family: [Poppins](https://fonts.google.com/specimen/Poppins);
+}
+.row_atas {
+  position: absolute;
+  border-top-color: red;
+  top: 330px;
+  left: 480px;
+  box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+  border: solid 0.3em white;
+  border-top-color: red;
+  width: 300px;
+  height: 190px;
+}
+.row_kiri {
+  position: absolute;
+  top: 470px;
+  left: 130px;
+  width: 300px;
+  height: 190px;
+  border: solid 0.3em white;
+  border-top-color: turquoise;
+  box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+}
+.row_kanan {
+  position: absolute;
+  top: 470px;
+  left: 830px;
+  width: 300px;
+  height: 190px;
+  border: solid 0.3em white;
+  border-top-color: blue;
+  box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+}
+.row_bawah {
+  position: absolute;
+  top: 600px;
+  left: 480px;
+  width: 300px;
+  height: 190px;
+  border: solid 0.3em white;
+  border-top-color: orange;
+  box-shadow: -3px -3px 2px rgba(0, 0, 0, 0.4);
+}
+.builder {
+  position: relative;
+  left: 110px;
+  margin-bottom: 300px;
+}
+.desktop {
+  position: absolute;
+  left: 230px;
+  margin-bottom: 300px;
+}
+.search {
+  position: absolute;
+  left: 230px;
+  margin-bottom: 300px;
+}
+.lampu {
+  position: absolute;
+  left: 230px;
+  margin-bottom: 300px;
+}
